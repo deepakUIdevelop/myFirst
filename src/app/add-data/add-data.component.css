@@ -1,0 +1,12 @@
+.add-data {
+  padding: 20px;
+}
+.firstName,
+.lastName {
+  position: relative;
+  top: 10px;
+}
+input {
+  height: 40px;
+  width: 200px;
+}
